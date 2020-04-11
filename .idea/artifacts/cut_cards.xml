@@ -1,0 +1,8 @@
+<component name="ArtifactManager">
+  <artifact type="war" name="cut-cards">
+    <output-path>$PROJECT_DIR$/out/artifacts/cut_cards</output-path>
+    <root id="archive" name="cut-cards.war">
+      <element id="artifact" artifact-name="cut-cards:war_exploded" />
+    </root>
+  </artifact>
+</component>

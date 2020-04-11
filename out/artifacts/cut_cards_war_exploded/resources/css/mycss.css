@@ -1,0 +1,70 @@
+.navbar-dark {
+    background:  #290040 !important;
+}
+
+.bg-dark {
+    background: #290040 !important;
+}
+
+.bg-blue {
+    background: blue !important;
+}
+
+#main-logo {
+    font-family: Century Gothic;
+}
+
+body {
+    font-family: Helvetica;
+    background: #e8e8e8 !important;
+}
+
+.row {
+    margin-top: 15px !important;
+    margin-bottom: 15px !important;
+}
+
+footer {
+    background: #290040 !important;
+}
+
+.btn-custom {
+    background:  #290040 !important;
+}
+
+.btn-custom:hover {
+    background:  #000000 !important;
+}
+
+.px-custom {
+    padding-left: 0.2em;
+    padding-right: 0.2em;
+    margin-top: 0.2em;
+}
+
+.card-text {
+    color: grey;
+}
+
+.background-image {
+    background-attachment: fixed;
+    background-position: top;
+}
+
+/* Large Devices, Wide Screens */
+@media only screen and (min-width : 992px) {
+    .border-custom-left {
+        border-left: 15px solid #e8e8e8 !important;
+    }
+    .border-custom-top {
+        border-top: 15px solid #e8e8e8 !important;
+    }
+}
+
+.card-img-top {
+
+}
+
+mark {
+    background-color:yellow;
+}
